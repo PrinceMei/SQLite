@@ -14,6 +14,7 @@
 		181636A11C8EB98B002C63FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 181636A01C8EB98B002C63FE /* Assets.xcassets */; };
 		181636A41C8EB98B002C63FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 181636A21C8EB98B002C63FE /* LaunchScreen.storyboard */; };
 		181636AD1C8EBB60002C63FE /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = 181636AC1C8EBB60002C63FE /* Contact.m */; };
+		181636B01C8ECAE0002C63FE /* DataManger1.m in Sources */ = {isa = PBXBuildFile; fileRef = 181636AF1C8ECAE0002C63FE /* DataManger1.m */; };
 		1AA2D45FA439393232D0D68F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ED9A71596591DA418CC2927B /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,8 @@
 		181636A51C8EB98B002C63FE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		181636AB1C8EBB60002C63FE /* Contact.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Contact.h; sourceTree = "<group>"; };
 		181636AC1C8EBB60002C63FE /* Contact.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Contact.m; sourceTree = "<group>"; };
+		181636AE1C8ECAE0002C63FE /* DataManger1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataManger1.h; sourceTree = "<group>"; };
+		181636AF1C8ECAE0002C63FE /* DataManger1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataManger1.m; sourceTree = "<group>"; };
 		8938C10C2CBF89429832A08F /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		ED9A71596591DA418CC2927B /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -80,6 +83,8 @@
 				181636981C8EB98B002C63FE /* AppDelegate.m */,
 				1816369A1C8EB98B002C63FE /* ViewController.h */,
 				1816369B1C8EB98B002C63FE /* ViewController.m */,
+				181636AE1C8ECAE0002C63FE /* DataManger1.h */,
+				181636AF1C8ECAE0002C63FE /* DataManger1.m */,
 				181636AB1C8EBB60002C63FE /* Contact.h */,
 				181636AC1C8EBB60002C63FE /* Contact.m */,
 				1816369D1C8EB98B002C63FE /* Main.storyboard */,
@@ -232,6 +237,7 @@
 			files = (
 				181636AD1C8EBB60002C63FE /* Contact.m in Sources */,
 				1816369C1C8EB98B002C63FE /* ViewController.m in Sources */,
+				181636B01C8ECAE0002C63FE /* DataManger1.m in Sources */,
 				181636991C8EB98B002C63FE /* AppDelegate.m in Sources */,
 				181636961C8EB98B002C63FE /* main.m in Sources */,
 			);

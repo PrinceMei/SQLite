@@ -10,4 +10,14 @@
 
 @implementation Contact
 
++ (instancetype)ContactWithName:(NSString *)name{
+    
+    Contact *contact = [[Contact alloc] init];
+    contact.name = name;
+    
+    return contact;
+}
+
+
+
 @end
